@@ -1,4 +1,9 @@
-
+.body {
+    background-color: grey;
+}
+#app {
+    color: red;
+}
 /* 
 
     You can write your own styles here...
